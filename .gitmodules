@@ -1,0 +1,18 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/Cerveaulent/Libft.git
+[submodule "GNL"]
+	path = GNL
+	url = https://github.com/Cerveaulent/GNL.git
+[submodule "Fillit"]
+	path = Fillit
+	url = https://github.com/Cerveaulent/Fillit.git
+[submodule "ft_ls"]
+	path = ft_ls
+	url = https://github.com/Cerveaulent/ft_ls.git
+[submodule "FDF"]
+	path = FDF
+	url = https://github.com/Cerveaulent/FDF.git
+[submodule "fractol"]
+	path = fractol
+	url = https://github.com/Cerveaulent/fractol.git
