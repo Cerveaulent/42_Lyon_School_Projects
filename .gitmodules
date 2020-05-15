@@ -16,3 +16,6 @@
 [submodule "fractol"]
 	path = fractol
 	url = https://github.com/Cerveaulent/fractol.git
+[submodule "Rush_MiniRogue"]
+	path = Rush_MiniRogue
+	url = https://github.com/Cerveaulent/Rush_MiniRogue.git
