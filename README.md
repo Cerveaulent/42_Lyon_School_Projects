@@ -90,7 +90,7 @@ You can find all the details for each project in the project guidelines pdfs.
   
 ###
   
-  ![placeholder]()
+  ![Mandelbrot](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/screenshots/Screenshot%20from%202020-05-17%2018-04-20.png)
   
   *A program that computes **fractals** :*
   * Mandelbrot [eng](https://en.wikipedia.org/wiki/Mandelbrot_set) - [fr](https://fr.wikipedia.org/wiki/Ensemble_de_Mandelbrot), 
