@@ -12,7 +12,7 @@ All those projects have the same structure :
 * source folder
 * library folders if needed
 
-Every project must be written following a **strict norm**, ( [Eng](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.en.pdf), [Fr](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.fr.pdf) ) and is restricted in the use of functions and/or libraries.
+Every project must be written following a **strict norm**, ( [Eng](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norm/norme.en.pdf), [Fr](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norm/norme.fr.pdf) ) and is restricted in the use of functions and/or libraries.
 
 ***No memory leaks are allowed in projects.***
 
@@ -74,7 +74,7 @@ You can find all the details for each project in the project guidelines pdfs.
   
 ###
   
-  ![placeholder]()
+  ![FDF](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/screenshots/screen_fdf.png)
   
   *A program that computes a simple topographic map (a text file with numbers representing height of a given point)  and represents it in **a wireframe isometric projection**. THe goal is to discover **the basics of graphic programming** and to use **miniLibX graphic** library*
   
