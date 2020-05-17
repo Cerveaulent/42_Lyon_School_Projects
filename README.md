@@ -26,6 +26,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+  
   *A simple library to use in projects without unauthorized functions*
   
 ###
@@ -35,6 +36,7 @@ You can find all the details for each project in the project guidelines pdfs.
 * Project Guidelines :  [Eng](https://github.com/Cerveaulent/Libft/blob/83072955a711f058f9fd51fb1f49ac21de476297/subjects/libft.en.pdf)   [Fr](https://github.com/Cerveaulent/Libft/blob/83072955a711f058f9fd51fb1f49ac21de476297/subjects/libft.fr.pdf)
 
 ## 2 . GNL :
+
 
 <h4> Description : 
   
@@ -48,6 +50,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 ## 3 . Fillit :
 
+
 <h4> Description : 
   
   *placeholder*
@@ -59,6 +62,7 @@ You can find all the details for each project in the project guidelines pdfs.
 * Project Guidelines :  [Eng](https://github.com/Cerveaulent/Fillit/blob/e3a431d8f3ff669dbac3d4e005860965ecc61023/subjects/fillit.en.pdf)   [Fr](https://github.com/Cerveaulent/Fillit/blob/e3a431d8f3ff669dbac3d4e005860965ecc61023/subjects/fillit.fr.pdf)
 
 ## 4 . FDF :
+
 
 <h4> Description : 
   
@@ -72,6 +76,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 ## 5 . Fract_ol :
 
+
 <h4> Description : 
   
   *placeholder*
@@ -84,6 +89,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 ## 6 . ft_ls :
 
+
 <h4> Description : 
   
   *placeholder*
@@ -95,6 +101,7 @@ You can find all the details for each project in the project guidelines pdfs.
 * Project Guidelines :  [Eng](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.en.pdf)   [Fr](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.pdf)
 
 ## 7 . MiniRogue :
+
 
 <h4> Description : 
   
