@@ -4,6 +4,22 @@ This repo is a part of my projects at 42 Lyon school (WiP)
 
 # Projects rules
 
+All those projects have the same structure :
+
+* an autor file (deprecated)
+* a Makefile
+* includes folder
+* source folder
+* library folders if needed
+
+Every project must be written following a strict norm, ( [Eng](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.en.pdf), [Fr](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.fr.pdf) ) and is restricted in the use of functions and/or libraries.
+
+Graphical projects fdf and fractol are using the Minilibx graphical librafry (aka MLX), developed by Ol for 42 schools. MLX exists under two versions : a MacOs only, using AppKit and OpenGL frameworks, and an other one for Linux, using X11 library. Both projects have both sources, making them runnable on both OS (but work best on MacOs). MLX for Linux isn't well ported, so you might need to find a workaround to compile/run the project.
+
+Rushes follow other specific rules.
+
+You can find all the details for each project in the project guidelines pdfs.
+
 # Projects
 
 ##  1 . Libft : 
