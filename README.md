@@ -76,7 +76,7 @@ You can find all the details for each project in the project guidelines pdfs.
   
   ![FDF](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/screenshots/screen_fdf.png)
   
-  *A program that computes a simple topographic map (a text file with numbers representing height of a given point)  and represents it in **a wireframe isometric projection**. THe goal is to discover **the basics of graphic programming** and to use **miniLibX graphic** library*
+  *A program that computes a simple topographic map (a text file where numbers represent the height of a given point)  and represents it in **a wireframe isometric projection**. THe goal is to discover **the basics of graphic programming** and to use **miniLibX graphic** library*
   
 ###
 
