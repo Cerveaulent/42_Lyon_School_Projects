@@ -25,7 +25,8 @@ You can find all the details for each project in the project guidelines pdfs.
 ##  1 . Libft : 
 
 <h4> Description : 
-  
+
+###
   
   *A simple library to use in projects without unauthorized functions*
   
@@ -39,6 +40,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
@@ -52,6 +54,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
@@ -65,6 +68,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
@@ -78,6 +82,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
@@ -91,6 +96,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
@@ -104,6 +110,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 <h4> Description : 
   
+###
   
   *placeholder*
   
