@@ -14,7 +14,7 @@ All those projects have the same structure :
 
 Every project must be written following a **strict norm**, ( [Eng](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.en.pdf), [Fr](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/norme.fr.pdf) ) and is restricted in the use of functions and/or libraries.
 
-Graphical projects  ***FDF*** and ***fractol*** are using the **Minilibx** graphical library (aka MLX), developed by Ol (Olivier Crouzet) for 42 schools. MLX exists under two versions : a MacOs only, using AppKit and OpenGL frameworks, and an other one for Linux, using X11 library. Both projects have both sources, making them runnable on both OS (but work best on MacOs). MLX for Linux *isn't well ported*, so you might need to find a workaround to compile/run the project.
+Graphical projects  ***FDF*** and ***fractol*** are using the **Minilibx** graphical library (aka MLX), developed by Ol (Olivier Crouzet) for 42 schools. MLX exists under two versions : a MacOs only, using AppKit and OpenGL frameworks, and an other one for Linux, using X11 library. Both projects have both sources, making them runnable on both OS (but work best on MacOs). MLX for Linux ***isn't well ported***, so you might need to find a workaround to compile/run the project.
 
 Rushes follow other specific rules.
 
