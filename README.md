@@ -16,7 +16,7 @@ Every project must be written following a **strict norm**, ( [Eng](https://githu
 
 Graphical projects  ***FDF*** and ***fractol*** are using the **Minilibx** graphical library (aka MLX), developed by Ol (Olivier Crouzet) for 42 schools. MLX exists under two versions : a MacOs only, using AppKit and OpenGL frameworks, and an other one for Linux, using X11 library. Both projects have both sources, making them runnable on both OS (but work best on MacOs). ***MLX for Linux isn't well ported***, so you might need to find a workaround to compile/run the project.
 
-***Rushes*** follow other specific rules.
+***Rushes*** follow other specific rules, and are marked with ***(Rush)*** tag in the following sections.
 
 You can find all the details for each project in the project guidelines pdfs.
 
@@ -106,7 +106,7 @@ You can find all the details for each project in the project guidelines pdfs.
 
 * Project Guidelines :  [Eng](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.en.pdf)   [Fr](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.pdf)
 
-## 7 . MiniRogue :
+## 7 . (Rush) MiniRogue :
 
 <h4> Description : 
   
