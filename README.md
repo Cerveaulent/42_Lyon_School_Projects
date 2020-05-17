@@ -1,6 +1,6 @@
 # 42 Lyon School Projects
 
-This repo is a part of my projects at 42_Lyon school (WiP)
+This repo is a part of my projects at 42 Lyon school (WiP)
 
 # Projects rules
 
@@ -77,3 +77,15 @@ This repo is a part of my projects at 42_Lyon school (WiP)
 * [Project GitHub page](https://github.com/Cerveaulent/ft_ls/tree/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580)
 
 * Project Guidelines :  [Eng](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.en.pdf)   [Fr](https://github.com/Cerveaulent/ft_ls/blob/e679c5dc9d9ca3b92f7b98819afa4f3e3ae72580/subjects/ft_ls.pdf)
+
+## 7 . MiniRogue :
+
+<h4> Description : 
+  
+  *placeholder*
+  
+###
+
+* [Project GitHub page](https://github.com/Cerveaulent/Rush_MiniRogue/tree/c39804864a69ca8b34eb449b19458bef3dccba97)
+
+* Project Guidelines :  ~~[Eng]()~~  [Fr](https://github.com/Cerveaulent/Rush_MiniRogue/blob/c39804864a69ca8b34eb449b19458bef3dccba97/subjects/ft_minirogue.pdf)
