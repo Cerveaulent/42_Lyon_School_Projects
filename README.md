@@ -113,7 +113,7 @@ More details can be found in each project guidelines pdf.
   
 ###
   
-  *An implementation of the **ls shell command**. The goal is to learn how to properly **manage data structures**, **files** and **directories** and to **discover Unix API**.*
+  *An implementation of the **ls POSIX command**. The goal is to learn how to properly **manage data structures**, **files** and **directories** and to **discover Unix API**.*
   
   <h6> Isn't compatible with Linux distros
   
