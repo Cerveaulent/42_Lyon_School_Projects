@@ -79,7 +79,9 @@ More details can be found in each project guidelines pdf.
   ![FDF](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/screenshots/screen_fdf.png)
   
   *A program that computes a simple topographic map (a text file where numbers represent the height of a given point)  and represents it in **a wireframe isometric projection**. The goal is to discover **the basics of graphic programming** and to use **miniLibX graphic** library*
+  
   *The program should work for MacOS and Linux*
+  
 ###
 
 * [GitHub Project Page](https://github.com/Cerveaulent/FDF/blob/master/README.md)
@@ -100,7 +102,8 @@ More details can be found in each project guidelines pdf.
   * Burning ship [eng](https://en.wikipedia.org/wiki/Burning_Ship_fractal) - [fr](https://fr.wikipedia.org/wiki/Fractale_burning_ship)
    
   *and represents them with **different color schemes**. Julia's set has a special feature that allows you to make its parameter vary whilst moving the mouse. The goal is discover/use the notion of **complex numbers**, and have a good insight of **optimization problems**.*
-  *The program should work for MacOS and Linux*
+ 
+ *The program should work for MacOS and Linux*
  
 ###
 
